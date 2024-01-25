@@ -16,3 +16,6 @@ Git tracks these files, and keeps track of your history by organizing your files
     - Staging (aka Index) -- files ADDed as a collection of related work
     - History -- COMMIT takes a snapshot of everything in the staging area
 When we are actively making changes to files, this is happening in the working tree
+
+revision #2 ...
+    made online in GitHub's editor, per comments from a reviewer
